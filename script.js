@@ -14,7 +14,7 @@ themeToggle?.addEventListener('click', () => {
 });
 
 actionBtn?.addEventListener('click', () => {
-  message.textContent = 'JavaScript conectado correctamente. Ya puedes empezar a programar.';
+  message.textContent = 'JavaScript no está conectado.';
 });
 
 function updateThemeButton() {

@@ -1,1 +1,1 @@
-*** Buenos días ***
+### GitHub: Trabajar en equipo
